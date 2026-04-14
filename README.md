@@ -14,7 +14,7 @@
 - ⚙️ Experienced with **finite element modeling, signal analysis, and seismic design**  
 - 📫 Reach me at: **s.mohamadikish@gmail.com**
 
----
+--
 
 ### 🧩 Research Interests
 
