@@ -23,7 +23,6 @@
 - Damage Detection and Model Updating  
 - Artificial Intelligence in Structural Engineering  
 - Smart and Resilient Infrastructure  
-
 ---
 
 ### ⚙️ Tech & Tools
