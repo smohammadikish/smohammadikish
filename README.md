@@ -13,7 +13,6 @@
 - 💡 Interested in **AI-based Structural Health Monitoring (SHM)** and **Smart Infrastructure Systems**  
 - ⚙️ Experienced with **finite element modeling, signal analysis, and seismic design**  
 - 📫 Reach me at: **s.mohamadikish@gmail.com**
-
 --
 ### 🧩 Research Interests
 
