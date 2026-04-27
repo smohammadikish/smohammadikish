@@ -15,7 +15,6 @@
 - 📫 Reach me at: **s.mohamadikish@gmail.com**
 
 --
-
 ### 🧩 Research Interests
 
 - Seismic Performance of Concrete and Steel Structures  
