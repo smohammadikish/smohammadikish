@@ -7,7 +7,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/SaeidehMohammadikish?label=Follow&style=social)](https://github.com/SaeidehMohammadikish)
 
 --
-
 - 🧱 **Structural & Earthquake Engineer** | MSc in Earthquake Engineering  
 - 🧪 Researcher focused on the **numerical and experimental behavior of concrete and steel structures under seismic loads**  
 - 💡 Interested in **AI-based Structural Health Monitoring (SHM)** and **Smart Infrastructure Systems**  
