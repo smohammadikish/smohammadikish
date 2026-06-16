@@ -22,7 +22,6 @@
 - Smart and Resilient Infrastructure  
 ---
 
-
 ### ⚙️ Tech & Tools
 
 
