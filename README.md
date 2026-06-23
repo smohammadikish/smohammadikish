@@ -23,7 +23,6 @@
 
 ### ⚙️ Tech & Tools
 
-
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat-square&logo=Mathworks)
 ![ABAQUS](https://img.shields.io/badge/-ABAQUS-05122A?style=flat-square)
