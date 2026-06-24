@@ -32,7 +32,6 @@
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-05122A?style=flat-square&logo=autodesk)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat-square&logo=LaTeX)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat-square&logo=Visual-Studio-Code)
-
 ---
 
 <div>
