@@ -37,7 +37,6 @@
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaeidehMohammadikish&show_icons=true&locale=en&layout=compact" alt="Saeideh Mohammadikish" />
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=SaeidehMohammadikish&" alt="Saeideh Mohammadikish" />
 </div>
-
 ---
 
 ⭐️ *"Bridging Structural Engineering and Intelligent Systems to Build a Safer, Smarter Future."*
